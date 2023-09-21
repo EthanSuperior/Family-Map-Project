@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Family Map</string>
+    <!-- Strings related to login -->
+    <string name="action_login_in">SIGN IN</string>
+    <string name="action_register">REGISTER</string>
+    <string name="default_host">10.0.2.2</string>
+    <string name="prompt_hostName">Enter Host\'s IP</string>
+    <string name="default_port">8080</string>
+    <string name="prompt_port">Enter the port number</string>
+    <string name="prompt_username">Enter your username</string>
+    <string name="prompt_email">Enter your email address</string>
+    <string name="prompt_password">Enter your password</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="prompt_firstName">Enter your first name</string>
+    <string name="prompt_lastName">Enter your last name</string>
+    <string name="server_host">Server Host:</string>
+    <string name="server_port">Server Port:</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="email">Email:</string>
+    <string name="gender">Gender:</string>
+    <string name="title_activity_search">Family Map: Search</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="blankText">Blank</string>
+    <string name="infoBoxInstruction">Click on a marker to see event details</string>
+    <string name="searchMenuItem">Search</string>
+    <string name="settingsMenuItem">Settings</string>
+    <string name="lineStoryLinesHeader">Line Story Lines</string>
+    <string name="lifeStoryLinesDesc">Show Life Story Lines</string>
+    <string name="familyTreeHeader">Family Tree Lines</string>
+    <string name="familyTreeDesc">Show Family Tree Lines</string>
+    <string name="spouseLinesHeader">Spouse Lines</string>
+    <string name="spouseLinesDesc">Show Spouse Lines</string>
+    <string name="fatherSideHeader">Father\'s Side</string>
+    <string name="fatherSideDesc">Filter by father\'s side of family</string>
+    <string name="motherSideHeader">Mother\'s Side</string>
+    <string name="motherSideDesc">Filter by mother\'s side of family</string>
+    <string name="maleHeader">Male Events</string>
+    <string name="genderFilterDesc">Filter Events based of gender</string>
+    <string name="femaleHeader">Female Events</string>
+    <string name="logoutHeader">Logout</string>
+    <string name="logoutDesc">Return to login screen</string>
+    <string name="personFirstName">First Name</string>
+    <string name="personLastName">Last Name</string>
+    <string name="personGender">Gender</string>
+    <string name="lifeEvent">LIFE EVENTS</string>
+    <string name="family">FAMILY</string>
+    <string name="relationFather">Father</string>
+    <string name="relationMother">Mother</string>
+    <string name="relationSpouse">Spouse</string>
+    <string name="relationChild">Child</string>
+    <string name="title_activity_person">Family Map: Person Details</string>
+    <string name="title_activity_settings">Family Map: Settings</string>
+
+
+</resources>
